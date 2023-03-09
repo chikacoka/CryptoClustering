@@ -77,3 +77,9 @@ Color the graph points with the labels found using K-means.
 Add the "coin_id" column in the hover_cols parameter to identify the cryptocurrency represented by each data point.
 Answer the following question:
 What is the impact of using fewer features to cluster the data using K-Means?
+
+References: 
+https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html
+https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html
+https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_blobs.html
+https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.RandomOverSampler.html
