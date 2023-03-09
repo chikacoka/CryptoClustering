@@ -82,4 +82,3 @@ References:
 https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html
 https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html
 https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_blobs.html
-https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.RandomOverSampler.html
